@@ -24,6 +24,8 @@ Here are some of the visualizations.
 
 ![](cvglmnet.png)
 
+![](glmnet.png)
+
 ## Model Building
 
 I performed text mining using the tidytext package and did a lasso regression on the words to see their effects on the ratings.
